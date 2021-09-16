@@ -1,0 +1,4 @@
+abcde 0
+fghi
+*bcd* 0
+fgh*

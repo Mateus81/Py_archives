@@ -1,0 +1,5 @@
+funcionario 1: Zelador, 1 ano
+funcionario 2: Porteiro, 2 anos
+funcionario 3: Assistente , 1 ano
+funcionario 4: Chefe financeiro, 4 anos
+funcionario 5: CEO, 5 anos anos

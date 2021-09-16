@@ -1,0 +1,4 @@
+arroz: 5.00 reais
+feijao: 7.00 reais 
+alcatra: 25.00 reais
+abacaxi: 2.00 reais
