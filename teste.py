@@ -1,7 +1,4 @@
-from Models.produto import Produto
+from Models.calcular import Calcular
 
-ps4 = Produto('Playstation 4', 1499.99)
-xbox = Produto('Xbox One', 1399.45)
-
-print(ps4)
-print(xbox)
+calc: Calcular = Calcular(dificuldade=1)
+print(calc)
